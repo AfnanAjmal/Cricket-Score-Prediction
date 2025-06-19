@@ -28,14 +28,10 @@ Thumbs.db
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Model files (if too large)
-*.pkl
-
 # Logs
-*.log
+logs.log
 
-# Data files (if too large)
-*.csv
-*.json
-*.yaml
-data/ 
+# Only exclude if files are too large for GitHub (>100MB)
+# If you need to exclude large files, uncomment below:
+# backend/models/ExtraTreesRegressor_model_0.pkl
+# backend/dataset_level1.pkl 
