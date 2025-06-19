@@ -1,0 +1,4 @@
+batting_team,bowling_team,city,current_score,balls_left,wickets_left,crr,last_five
+India,Pakistan,Dubai,120,60,7,6.0,35
+Australia,England,Mumbai,95,84,8,5.68,28
+South Africa,New Zealand,Colombo,145,42,6,7.25,45
