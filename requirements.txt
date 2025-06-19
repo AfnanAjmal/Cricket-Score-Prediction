@@ -1,0 +1,10 @@
+xgboost==1.4.2
+streamlit
+scikit-learn
+fastapi
+uvicorn[standard]
+pycaret
+python-multipart
+plotly
+seaborn
+matplotlib
